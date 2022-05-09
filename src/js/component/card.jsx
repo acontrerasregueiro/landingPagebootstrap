@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
 	return (
-		<div className="card" style={{ width: "18rem" }}>
+		<div className="card" style={{ width: "20rem" }}>
 			<img
 				className="card-img-top"
 				src="https://www.elsoldetlaxcala.com.mx/incoming/j3sdgs-perrito.jpg/ALTERNATES/LANDSCAPE_1140/perrito.jpg"
